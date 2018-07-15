@@ -1,6 +1,6 @@
 # simple chrome extension
 This is an example of a simple chrome extension
-MUSTA HAVE FILES:
+MUST HAVE FILES:
 -JavaScript file (*.js)
 -html file (*.html)
 -Json manifest file (manifest.json)
